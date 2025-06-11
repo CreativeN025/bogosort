@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=bogosort
+comment1.params=
+comment1.target=bogosort()
+comment2.params=sortarray
+comment2.target=int[]\ assignint(int[])
+comment3.params=sortarray
+comment3.target=int[]\ sort(int[])
+comment4.params=sortarray
+comment4.target=boolean\ IsSorted(int[])
+comment5.params=filePath\ length\ loop\ time
+comment5.target=void\ log(java.lang.String,\ int,\ long,\ long)
+numComments=6
